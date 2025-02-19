@@ -1,0 +1,26 @@
+[
+  {
+    "id": 11100,
+    "name": "Sanket Patel",
+    "age": 21,
+    "email": "sanketpatel1@gmail.com"
+  },
+  {
+    "id": 11101,
+    "name": "Uday Pratap Kourav",
+    "age": 22,
+    "email": "udaykourav@example.com"
+  },
+  {
+    "id": 11102,
+    "name": "Bhupendra Singh",
+    "age": 28,
+    "email": "bhupendrasingh@example.com"
+  },
+  {
+    "id": 11103,
+    "name": "Yogesh Kushwah",
+    "age": 30,
+    "email": "yogeshkushwah@example.com"
+  }
+]
